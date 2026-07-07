@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+cloud_ready_etl.db
+*.db
+.env
+__pycache__/
+*.pyc
